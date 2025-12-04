@@ -10,19 +10,19 @@ To become a modern, secure, and inclusive Nusantara technology ecosystem — con
 
 ### NUSATECH MISSION
 
-1. Delivering secure and transparent technology
-Building tools and systems that detect risks, protect users, and uphold trust within the digital ecosystem.
+Delivering secure and transparent technology
+Building tools and systems that detect risks, protect users, and maintain trust within the digital ecosystem.
 
-2. Integrating Nusantara cultural values with modern innovation
-Crafting technology products with narratives, symbols, and aesthetics inspired by Indonesian heritage.
+Integrating Nusantara cultural values with modern innovation
+Designing technology products through narratives, symbols, and aesthetics inspired by Nusantara heritage.
 
-3. Empowering the community through digital education
+Empowering the community through digital education
 Providing simple, concise, and easy-to-understand knowledge about security, blockchain, and modern technology.
 
-4. Creating an inclusive and accessible platform
-Ensuring that everyone—from beginners to experts—can use Nusatech to grow in the tech world.
+Creating an inclusive and accessible platform
+Ensuring that everyone—from beginners to experts—can leverage Nusatech to grow within the tech ecosystem.
 
-5. Driving collaboration within the Web3 & AI ecosystem
+Driving collaboration across the Web3 & AI landscape
 Connecting users, developers, and creators to build the future of technology together.
 
 ---
