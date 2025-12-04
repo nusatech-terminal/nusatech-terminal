@@ -2,26 +2,28 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C69C55&height=100&section=header"/>
 
-#### 🌅 Safeguarding the Legacy on the Blockchain
+### NUSATECH VISION
 
-**Nusatech** is a modern technology ecosystem designed to bridge Indonesian culture with global innovation. We focus on security, education, and building a transparent future.
-
----
-
-### 🛡️ The Guardian Modules
-Just like the *Penjaga* of the past, we build tools to protect the digital frontier:
-
-* **Keris Engine:** High-precision smart contract analysis and risk detection.
-* **Gamelan Alerts:** Harmonic notification systems for portfolio health.
-* **Lontar Archive:** Immutable storage preserving truth on-chain.
+To become a modern, secure, and inclusive Nusantara technology ecosystem — connecting Indonesian heritage with global innovation.
 
 ---
 
-### 🔥 Our Mission
-1.  **Transparent Security:** Building tools that detect risks and protect users.
-2.  **Cultural Fusion:** Merging Nusantara aesthetics with modern tech stacks.
-3.  **Digital Education:** Simplifying Blockchain & AI for the masses.
-4.  **Inclusivity:** A platform for everyone—from beginners to experts.
+### NUSATECH MISSION
+
+1. Delivering secure and transparent technology
+Building tools and systems that detect risks, protect users, and uphold trust within the digital ecosystem.
+
+2. Integrating Nusantara cultural values with modern innovation
+Crafting technology products with narratives, symbols, and aesthetics inspired by Indonesian heritage.
+
+3. Empowering the community through digital education
+Providing simple, concise, and easy-to-understand knowledge about security, blockchain, and modern technology.
+
+4. Creating an inclusive and accessible platform
+Ensuring that everyone—from beginners to experts—can use Nusatech to grow in the tech world.
+
+5. Driving collaboration within the Web3 & AI ecosystem
+Connecting users, developers, and creators to build the future of technology together.
 
 ---
 
