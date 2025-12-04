@@ -37,6 +37,6 @@ Just like the *Penjaga* of the past, we build tools to protect the digital front
 We are currently building the **Heritage Web3 Layer**.
 > *"Just as the ancient archipelago was connected by the sea, the new world is connected by chains."*
 
-[🌐 Visit Our Website](#) • [📄 Read the Documentation](#) • [🤝 Join the Community](#)
+[🌐 Visit Our Website](https://nusatechterminal.com/) • [📄 Read the Documentation](#) • [🤝 Join the Community](https://x.com/i/communities/1996468116604260714)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C69C55&height=100&section=footer"/>
