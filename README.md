@@ -4,7 +4,7 @@
 
 ### NUSATECH VISION
 
-To become a modern, secure, and inclusive Nusantara technology ecosystem — connecting Indonesian heritage with global innovation.
+To become a modern, secure, and inclusive Nusantara technology ecosystem — connecting Nusantara culture with global innovation.
 
 ---
 
